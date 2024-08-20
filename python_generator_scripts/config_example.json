@@ -1,0 +1,30 @@
+{
+    "parameters": {
+        "REGISTER_WIDTH": 32,
+        "REGISTER_ADDR_WIDTH": 10
+    },
+    "control_fields": {
+        "START_STOP_CTRL": 1,
+        "RESET_N": 1
+    },
+    "global_fields" : {
+        "NUM_WF": 2,
+        "NUM_WF_SEQ": 8,
+        "IS_RANDOM": 1,
+        "WF_SEQ": 11
+    },
+    "waveform_fields": {
+        "WAVEFORM_INDEX": 8,
+        "NUM_PULSE_PER_BURST": 16,
+        "MOD_POLARITY": 1,
+        "SINGLE_OR_BURST": 1,
+        "WAVEFORM_TYPE": 2,
+        "NUM_CLK_CYCLES_PRI": 32,
+        "NUM_CLK_CYCLES_ON": 32,
+        "PHZ_INC_START": 16,
+        "PHZ_INC_OFFSET": 16,
+        "NUM_CLK_CYCLES_BW_MOD": 16,
+        "PHZ_INC_INC": 16,
+        "BPSK_SEQ": 256
+    }
+}
