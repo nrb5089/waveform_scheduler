@@ -4,10 +4,10 @@
         "RESET_N": 1
     },
     "global_fields": {
-        "NUM_WF": 3,
-        "NUM_WF_SEQ": 6,
+        "NUM_WF": 16,
+        "NUM_WF_SEQ": 16,
         "IS_RANDOM": 0,
-        "WF_SEQ": 420
+        "WF_SEQ": 10293942005418276
     },
     "waveform_fields": [
         {
@@ -18,7 +18,7 @@
             "WAVEFORM_TYPE": 0,
             "NUM_CLK_CYCLES_PRI": 500,
             "NUM_CLK_CYCLES_ON": 250,
-            "PHZ_INC_START": 1999,
+            "PHZ_INC_START": 6553,
             "PHZ_INC_OFFSET": 0,
             "NUM_CLK_CYCLES_BW_MOD": 0,
             "PHZ_INC_INC": 0,
@@ -32,7 +32,7 @@
             "WAVEFORM_TYPE": 1,
             "NUM_CLK_CYCLES_PRI": 5000,
             "NUM_CLK_CYCLES_ON": 2500,
-            "PHZ_INC_START": 1999,
+            "PHZ_INC_START": 6553,
             "PHZ_INC_OFFSET": 0,
             "NUM_CLK_CYCLES_BW_MOD": 1,
             "PHZ_INC_INC": 7,
@@ -46,11 +46,11 @@
             "WAVEFORM_TYPE": 2,
             "NUM_CLK_CYCLES_PRI": 5000,
             "NUM_CLK_CYCLES_ON": 3250,
-            "PHZ_INC_START": 1999,
+            "PHZ_INC_START": 6553,
             "PHZ_INC_OFFSET": 0,
             "NUM_CLK_CYCLES_BW_MOD": 250,
             "PHZ_INC_INC": 13,
-            "BPSK_SEQ": 5535
+            "BPSK_SEQ": 94006611800752555074359127519949991031935881255159026407042646714505045895667
         },
         {
             "WAVEFORM_INDEX": 3,

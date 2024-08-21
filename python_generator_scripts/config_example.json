@@ -11,10 +11,10 @@
         "NUM_WF": 2,
         "NUM_WF_SEQ": 8,
         "IS_RANDOM": 1,
-        "WF_SEQ": 11
+        "WF_SEQ": 1024
     },
     "waveform_fields": {
-        "WAVEFORM_INDEX": 8,
+        "WAVEFORM_INDEX": 4,
         "NUM_PULSE_PER_BURST": 16,
         "MOD_POLARITY": 1,
         "SINGLE_OR_BURST": 1,
